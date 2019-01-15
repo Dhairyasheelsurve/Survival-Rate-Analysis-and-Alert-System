@@ -1,0 +1,15 @@
+#build folder
+build/
+#nbproject folder
+nbproject/
+#test folder
+test/
+#other files
+*.XML
+*.mf
+dist/
+*.csv
+*.txt
+*.db4o
+*.jar
+*.DS_Store
